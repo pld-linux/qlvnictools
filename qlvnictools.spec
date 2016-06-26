@@ -2,7 +2,7 @@ Summary:	QLogic VNIC driver
 Summary(pl.UTF-8):	Sterownik QLogic VNIC
 Name:		qlvnictools
 Version:	0.0.1
-%define	snap	2
+%define	snap	20091009
 %define	gitref	ge27eef7
 Release:	0.%{snap}.1
 License:	BSD or GPL v2
